@@ -1,0 +1,2 @@
+SELECT COUNT(id) AS NombreEtudiant1825 FROM Etudiant
+    WHERE age BETWEEN 18 AND 25;
